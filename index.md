@@ -5,7 +5,7 @@
 ### Projects 
 
 [Project 1 Title](https://github.com/PedroMMagalhaes/4Automation)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="https://github.com/PedroMMagalhaes/4Automation/blob/master/Logo_4Automation/4Automation_noBack.png"/>
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)

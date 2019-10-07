@@ -5,7 +5,7 @@
 ### Projects 
 
 [4Automation](https://github.com/PedroMMagalhaes/4Automation)
-<img src="https://github.com/PedroMMagalhaes/4Automation/blob/master/Logo_4Automation/4Automation_noBack.png"/>
+<img src="https://github.com/PedroMMagalhaes/4Automation/blob/master/Logo_4Automation/4Automation_noBack.png?raw=true"/>
 
 ---
 [Home Automation Project](https://github.com/PedroMMagalhaes/Home-Automation-Project)

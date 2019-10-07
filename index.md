@@ -19,7 +19,7 @@
 
 ### IEEE 
 
-- [Project 1 Title](http://example.com/)
+- [Project 1 Title](https://github.com/PedroMMagalhaes/IEEEIPLEIRIA/blob/master/Latex2016.jpg)
 - [Project 2 Title](http://example.com/)
 - [Project 3 Title](http://example.com/)
 - [Project 4 Title](http://example.com/)

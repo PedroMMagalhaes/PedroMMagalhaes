@@ -2,7 +2,7 @@
 
 ---
 
-### Category Name 1 
+### Projects 
 
 [Project 1 Title](https://github.com/PedroMMagalhaes/4Automation)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
@@ -17,7 +17,7 @@
 
 ---
 
-### Category Name 2
+### IEEE 
 
 - [Project 1 Title](http://example.com/)
 - [Project 2 Title](http://example.com/)

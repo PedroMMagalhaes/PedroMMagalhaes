@@ -19,11 +19,13 @@
 
 ### IEEE 
 
-- [Project 1 Title](https://github.com/PedroMMagalhaes/IEEEIPLEIRIA/blob/master/Latex2016.jpg)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
+- [Latex 2016](https://github.com/PedroMMagalhaes/IEEEIPLEIRIA/blob/master/Latex2016.jpg)
+- [Leadership Camp 2018](https://github.com/PedroMMagalhaes/IEEEIPLEIRIA/blob/master/LeadershipCamp2018.jpg)
+- [LeriCon 2017](https://github.com/PedroMMagalhaes/IEEEIPLEIRIA/blob/master/LeiriCon2017.jpg)
+- [Seminar MongoDB 2018](https://github.com/PedroMMagalhaes/IEEEIPLEIRIA/blob/master/Semin%C3%A1rioMongoDB2018.jpg)
+- [Workshop Computer Fix 2018](https://github.com/PedroMMagalhaes/IEEEIPLEIRIA/blob/master/WorkshopComputerFix2017.jpg)
+- [Workshop 3D Print](https://github.com/PedroMMagalhaes/IEEEIPLEIRIA/blob/master/WorkshopImpress%C3%A3o3d.jpg)
+
 
 ---
 

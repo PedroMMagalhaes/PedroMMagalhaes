@@ -8,6 +8,10 @@
 <img src="https://github.com/PedroMMagalhaes/4Automation/blob/master/Logo_4Automation/4Automation_noBack.png"/>
 
 ---
+[Home Automation Project](https://github.com/PedroMMagalhaes/Home-Automation-Project)
+<img src="https://github.com/PedroMMagalhaes/Home-Automation-Project/blob/master/Prints/PagInic.png?raw=true?raw=true"/>
+
+---
 [POS System](https://github.com/PedroMMagalhaes/POS-System---Jardoeira)
 
 

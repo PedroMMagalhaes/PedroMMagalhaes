@@ -8,12 +8,12 @@
 <img src="https://github.com/PedroMMagalhaes/4Automation/blob/master/Logo_4Automation/4Automation_noBack.png"/>
 
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[POS System](https://github.com/PedroMMagalhaes/POS-System---Jardoeira)
+
 
 ---
-[Project 3 Title](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Print Service](https://github.com/PedroMMagalhaes/PrintService)
+
 
 ---
 

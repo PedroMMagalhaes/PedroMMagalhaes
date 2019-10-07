@@ -4,7 +4,7 @@
 
 ### Projects 
 
-[Project 1 Title](https://github.com/PedroMMagalhaes/4Automation)
+[4Automation](https://github.com/PedroMMagalhaes/4Automation)
 <img src="https://github.com/PedroMMagalhaes/4Automation/blob/master/Logo_4Automation/4Automation_noBack.png"/>
 
 ---

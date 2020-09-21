@@ -7,7 +7,7 @@ description: > # your text below (remove <br> elements if you don't need line br
   <i>Master Student in Cybersecurity and Digital Forensics</i>
   <br><b>
   Polytechnic Institute of Leiria
-  <br><br>
+  <br><br><br>
   <a href="https://www.linkedin.com/in/pedromagalh%C3%A3es/">View My LinkedIn Profile</a> 
   
 theme: jekyll-theme-minimal

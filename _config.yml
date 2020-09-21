@@ -1,10 +1,10 @@
 title: Pedro Magalhães # your name (or website title) here
 logo: "/images/image.png?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
-  Computer Engineer
+  <b>Computer Engineer</b>
   <br>
-  Master Student in Cybersecurity and Digital Forensics
-  <br><br>
+  <i>Master Student in Cybersecurity and Digital Forensics</i>
+  <br>
   <b>Polytechnic Institute of Leiria</b>
   <br><br>
   <a href="https://www.linkedin.com/in/pedromagalh%C3%A3es/">View My LinkedIn Profile</a> 

@@ -17,7 +17,7 @@
 
 ---
 [Virtual Wallet](https://github.com/PedroMMagalhaes/Projeto_DAD)
-<img src="https://miro.medium.com/max/1200/1*0ujX1kC4dU8sfs6wufBmqg.png?raw=true"/>
+<img src="https://mauricius.dev/images/laravel-vue.png?raw=true"/>
 
 ---
 [POS System](https://github.com/PedroMMagalhaes/POS-System---Jardoeira)

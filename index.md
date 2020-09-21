@@ -13,10 +13,14 @@
 
 ---
 [Backup Script](https://github.com/PedroMMagalhaes/BackupScript)
+<img src="https://communityblog.fedoraproject.org/wp-content/uploads/2015/11/Python-logo-1568x664.png?raw=true"/>
+
+---
+[Virtual Wallet](https://github.com/PedroMMagalhaes/Projeto_DAD)
+<img src="https://miro.medium.com/max/1200/1*0ujX1kC4dU8sfs6wufBmqg.png?raw=true"/>
 
 ---
 [POS System](https://github.com/PedroMMagalhaes/POS-System---Jardoeira)
-
 
 ---
 [Print Service](https://github.com/PedroMMagalhaes/PrintService)

@@ -4,23 +4,29 @@
 
 ### Projects 
 
+
 [4Automation](https://github.com/PedroMMagalhaes/4Automation)
 <img src="https://github.com/PedroMMagalhaes/4Automation/blob/master/Logo_4Automation/4Automation_noBack.png?raw=true"/>
+
 
 ---
 [Home Automation Project](https://github.com/PedroMMagalhaes/Home-Automation-Project)
 <img src="https://github.com/PedroMMagalhaes/Home-Automation-Project/blob/master/Prints/PagInic.png?raw=true?raw=true"/>
 
+
 ---
 [Backup Script](https://github.com/PedroMMagalhaes/BackupScript)
 <img src="https://communityblog.fedoraproject.org/wp-content/uploads/2015/11/Python-logo-1568x664.png?raw=true"/>
+
 
 ---
 [Virtual Wallet](https://github.com/PedroMMagalhaes/Projeto_DAD)
 <img src="https://mauricius.dev/images/laravel-vue.png?raw=true"/>
 
+
 ---
 [POS System](https://github.com/PedroMMagalhaes/POS-System---Jardoeira)
+
 
 ---
 [Print Service](https://github.com/PedroMMagalhaes/PrintService)

@@ -12,6 +12,9 @@
 <img src="https://github.com/PedroMMagalhaes/Home-Automation-Project/blob/master/Prints/PagInic.png?raw=true?raw=true"/>
 
 ---
+[Backup Script](https://github.com/PedroMMagalhaes/BackupScript)
+
+---
 [POS System](https://github.com/PedroMMagalhaes/POS-System---Jardoeira)
 
 

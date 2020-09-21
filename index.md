@@ -11,6 +11,7 @@
 
 ---
 [Home Automation Project](https://github.com/PedroMMagalhaes/Home-Automation-Project)
+
 <img src="https://github.com/PedroMMagalhaes/Home-Automation-Project/blob/master/Prints/PagInic.png?raw=true?raw=true"/>
 
 
@@ -50,5 +51,4 @@
 
 
 ---
-<p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
-<!-- Remove above link if you don't want to attibute -->
+
